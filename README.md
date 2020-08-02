@@ -1,4 +1,4 @@
-# RouletteMasivian
+# RouletteMasivian - EndPoints
       1. Endpoint de creación de nuevas ruletas que devuelva el id de la nueva ruleta creada
       2. Endpoint de apertura de ruleta (el input es un id de ruleta) que permita las
       posteriores peticiones de apuestas, este debe devolver simplemente un estado que
